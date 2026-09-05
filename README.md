@@ -1,3 +1,3 @@
 # CardGame
 
-CArdGame with go
+CardGame with go
